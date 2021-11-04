@@ -1,5 +1,5 @@
 A Tour Through the Visualization Zoo
-Frases resaltadas:
+Frases resaltadas: 
 
 1- Creating a visualization requires a number of nuanced judgments. One must determine which questions to ask, identify the appropriate data, and select effective visual encodings to map data values to graphical features
 
