@@ -1,3 +1,36 @@
-# A Tour Through the Visualization Zoo
+A Tour Through the Visualization Zoo
+Frases resaltadas:
 
-## Frases resaltadas
+1- Creating a visualization requires a number of nuanced judgments. One must determine which questions to ask, identify the appropriate data, and select effective visual encodings to map data values to graphical features
+
+2- An index chart is an interactive line chart that shows percentage changes for a collection of time-series data based on a selected index point
+
+3- By stacking area charts on top of each other, we arrive at a visual summation of time-series values—a stacked graph.
+
+4- Placing multiple series in the same space may produce overlapping curves that reduce legibility, however. An alternative approach is to use small multiples: showing each series in its own chart.
+
+5- The horizon graph is a technique for increasing the data density of a time-series view while preserving resolution.
+
+6- One important use of visualizations is exploratory data analysis: gaining insight into how data is distributed to inform data transformation and modeling decisions.
+
+7- Common techniques include the histogram, which shows the prevalence of values grouped into bins, and the box-and-whisker plot, which can convey statistical features such as the mean, median, quartile boundaries, or extreme outliers.
+
+8- One alternative to the histogram is the stem-and-leaf plot. It typically bins numbers according to the first significant digit, and then stacks the values within each bin by the second significant digit.
+
+9- The Q-Q plot compares two probability distributions by graphing their quantiles against each other.
+
+10- Interaction techniques such as brushing-and-linking—in which a selection of points on one graph highlights the same points on all the other graphs—can be used to explore patterns within the data.
+
+11- A flow map can depict the movement of a quantity in space and (implicitly) in time.
+
+12- A standard approach to communicating this data is to use a color encoding of the geographic area, resulting in a choropleth map.
+
+13- A cartogram distorts the shape of geographic regions so that the area directly encodes a data variable.
+
+14- The word tree is used interchangeably with hierarchy, as the fractal branches of an oak might mirror the nesting of data. If we take a two-dimensional blueprint of a tree, we have a popular choice for visualizing hierarchies: a node-link diagram.
+
+15- The enclosure diagram is also space filling, using containment rather than adjacency to represent the hierarchy.
+
+16- Mathematicians use the formal term graph to describe a network. A central challenge in graph visualization is computing an effective layout. 
+
+17- The DNA underlying all visualizations remains the same: the principled mapping of data variables to visual features such as position, size, shape, and color.
