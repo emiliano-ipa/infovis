@@ -1,0 +1,61 @@
+Marca temporal,Tipo de comida,Preparación,¿Incluye ...?,¿Bebida?,Mientras como...
+8/11/2021 9:44:46,Desayuno,No aplica,"Frutas, Lácteos",Infusión,Trabajo
+8/11/2021 14:36:54,Almuerzo,Viandas,"Verduras, Hidratos de carbono, Pollo",Agua,Trabajo
+8/11/2021 19:49:58,Merienda,No aplica,Hidratos de carbono,Infusión,Estudio
+8/11/2021 21:23:16,Cena,Propia,"Carne, Hidratos de carbono",Agua,Miro TV
+9/11/2021 0:31:13,Colación,No aplica,Dulces,Infusión,Leo
+9/11/2021 7:16:15,Desayuno,No aplica,Nada,Infusión,Trabajo
+9/11/2021 11:41:56,Colación,No aplica,Frutas,Infusión,Trabajo
+9/11/2021 13:51:37,Almuerzo,Viandas,"Verduras, Carne",Agua,Trabajo
+9/11/2021 17:06:35,Merienda,No aplica,"Lácteos, Hidratos de carbono",Infusión,Trabajo
+9/11/2021 20:49:38,Colación,No aplica,Frutas,Agua,Estudio
+10/11/2021 0:41:32,Cena,No aplica,"Lácteos, Hidratos de carbono",Agua,Miro TV
+10/11/2021 7:24:56,Desayuno,No aplica,Hidratos de carbono,Infusión,Trabajo
+10/11/2021 10:07:19,Colación,No aplica,Nada,Infusión,Trabajo
+10/11/2021 12:51:31,Almuerzo,Viandas,"Verduras, Pollo",Agua,Miro TV
+10/11/2021 22:06:43,Cena,Comer afuera,Hidratos de carbono,Gaseosa,Juntada
+11/11/2021 7:57:00,Colación,No aplica,Nada,Infusión,Trabajo
+11/11/2021 11:07:20,Desayuno,No aplica,"Lácteos, Hidratos de carbono",Infusión,Trabajo
+11/11/2021 13:50:15,Almuerzo,Viandas,"Verduras, Carne",Agua,Trabajo
+11/11/2021 18:12:52,Merienda,No aplica,Frutas,Agua,Estudio
+11/11/2021 22:11:33,Cena,Propia,"Lácteos, Carne, Hidratos de carbono",Gaseosa,Juntada
+12/11/2021 7:21:48,Desayuno,No aplica,Hidratos de carbono,Infusión,Trabajo
+12/11/2021 10:12:00,Colación,No aplica,"Lácteos, Hidratos de carbono",Infusión,Trabajo
+12/11/2021 14:10:11,Almuerzo,Viandas,"Verduras, Carne",Agua,Trabajo
+12/11/2021 17:09:36,Merienda,No aplica,"Hidratos de carbono, Dulces",Infusión,Trabajo
+12/11/2021 19:39:51,Colación,No aplica,Hidratos de carbono,Infusión,Trabajo
+12/11/2021 22:33:32,Cena,Propia,"Carne, Hidratos de carbono",Gaseosa,Juntada
+13/11/2021 10:33:56,Desayuno,No aplica,"Lácteos, Hidratos de carbono",Infusión,Miro TV
+13/11/2021 15:21:07,Almuerzo,Viandas,"Verduras, Carne",Agua,Estudio
+13/11/2021 19:42:20,Merienda,No aplica,Dulces,Infusión,Miro TV
+14/11/2021 13:57:49,Almuerzo,Comer afuera,"Frutas, Verduras, Carne, Hidratos de carbono",Gaseosa,Juntada
+14/11/2021 21:56:53,Cena,Propia,"Hidratos de carbono, Pollo",Agua,Miro TV
+15/11/2021 8:14:40,Desayuno,No aplica,Nada,Infusión,Trabajo
+15/11/2021 10:01:18,Colación,No aplica,Frutas,Infusión,Trabajo
+15/11/2021 11:31:11,Colación,No aplica,Nada,Infusión,Trabajo
+15/11/2021 13:43:46,Almuerzo,Viandas,"Verduras, Carne",Agua,Trabajo
+15/11/2021 18:07:39,Merienda,No aplica,Nada,Infusión,Estudio
+15/11/2021 22:35:53,Cena,Propia,Hidratos de carbono,Agua,Miro TV
+16/11/2021 8:12:15,Desayuno,No aplica,Nada,Infusión,Trabajo
+16/11/2021 12:14:11,Almuerzo,No aplica,Frutas,Agua,Trabajo
+16/11/2021 19:52:47,Merienda,No aplica,"Lácteos, Hidratos de carbono",Infusión,Estudio
+17/11/2021 8:31:27,Desayuno,Comer afuera,"Hidratos de carbono, Dulces",Infusión,Estudio
+17/11/2021 16:25:55,Almuerzo,Viandas,"Verduras, Carne, Hidratos de carbono",Agua,Trabajo
+17/11/2021 22:13:54,Cena,Comer afuera,"Carne, Hidratos de carbono, Dulces",Alcohol,Juntada
+18/11/2021 10:14:40,Desayuno,No aplica,Avena,Infusión,Trabajo
+18/11/2021 13:56:53,Almuerzo,Viandas,"Verduras, Carne",Agua,Trabajo
+18/11/2021 19:00:10,Merienda,No aplica,Avena,Infusión,Estudio
+18/11/2021 22:29:54,Cena,Pedidos,"Carne, Hidratos de carbono",Gaseosa,Juntada
+19/11/2021 7:58:22,Desayuno,No aplica,Avena,Infusión,Trabajo
+19/11/2021 12:00:30,Colación,No aplica,Avena,Agua,Trabajo
+19/11/2021 0:15:11,Cena,Propia,"Hidratos de carbono, Pollo",Gaseosa,Juntada
+20/11/2021 10:13:50,Desayuno,No aplica,"Hidratos de carbono, Dulces, Semillas",Infusión,Juntada
+20/11/2021 18:14:13,Merienda,No aplica,"Hidratos de carbono, Dulces, Semillas",Infusión,Juntada
+20/11/2021 22:58:24,Cena,Pedidos,"Carne, Hidratos de carbono",Alcohol,Miro TV
+21/11/2021 8:17:36,Desayuno,No aplica,"Hidratos de carbono, Semillas",Infusión,Juntada
+21/11/2021 11:03:49,Colación,No aplica,Nada,Infusión,Juntada
+21/11/2021 15:37:35,Almuerzo,Comer afuera,Carne,Gaseosa,Juntada
+21/11/2021 22:23:02,Cena,Comer afuera,"Carne, Hidratos de carbono",Alcohol,Juntada
+22/11/2021 15:23:20,Almuerzo,Propia,"Verduras, Carne",Agua,Miro TV
+22/11/2021 20:28:56,Merienda,No aplica,"Hidratos de carbono, Dulces",Infusión,Estudio
+22/11/2021 21:45:20,Cena,Comer afuera,"Carne, Hidratos de carbono",Gaseosa,Juntada
